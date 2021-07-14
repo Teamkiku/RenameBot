@@ -11,7 +11,8 @@
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Teamkiku/RenameBot)
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kikuseller/thekiku)
 
 ### Credits:
 
